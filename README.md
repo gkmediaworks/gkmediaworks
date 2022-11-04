@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gokul Rajendran @gkmediaworks.
-- 👀 I’m interested in AR, VR, MR, Game Developement, Unity 3D Technologies.
+- 👀 I’m interested in Cloud, AR, VR, MR, Game Developement, Unity 3D Technologies.
 - 🌱 I’m currently learning Digital Media Developement.
-- 💞️ I’m looking to collaborate on Gaming and Media Developement.
+- 💞️ I’m looking to collaborate on Cloud, Metaverse, Gaming and Media Developement.
 - 📫 Reach me by Mobile: +91-6381713377, Mail: gokul.spt@gmail.com, Website: www.gkmediaworks.com.
 
 <!---
